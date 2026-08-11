@@ -19,6 +19,8 @@ namespace Assignment2
             Console.WriteLine("CGPA: " + CGPA);
             Console.WriteLine("College: " + College);
             Console.WriteLine("Address: " + Address);
+            Console.WriteLine("Developed by Mukund Karki (Class RollNo: 35,  Uni RollNo: 12584200122)");
+
         }
     }
 }
