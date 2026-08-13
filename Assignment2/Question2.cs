@@ -8,9 +8,9 @@ namespace Assignment2
         {
             Student student = new Student();
 
-            student.Name = "Mukund";          // public
+            student.Name = "Sushant";          // public
             student.CGPA = 8.5;               // internal
-            student.College = "ABC College";  // protected internal
+            student.College = "GLA University";  // protected internal
 
             // student.Age = 23;              // private 
             // student.Department = "CS";     // protected 
